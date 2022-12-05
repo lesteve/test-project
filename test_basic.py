@@ -4,3 +4,7 @@ def test():
 
 def test2():
     assert 2 + 2 == 4
+
+
+def test3():
+    assert 1 + 3 == 5
