@@ -9,8 +9,8 @@ on:
       - main
 
 jobs:
-  release:
-    name: Update lock files
+  test:
+    name: Test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
