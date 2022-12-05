@@ -12,3 +12,4 @@ def test3():
 
 def test4(): 
     assert 4 + 2 == 6
+
